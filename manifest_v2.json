@@ -1,0 +1,146 @@
+{
+  "item": {
+    "id": "com.gaozhong.aqm",
+    "restype": "quick_app",
+    "name": "学习盒子-高中版",
+    "description": "专为高中住宿生打造的强大的学习资源APP。字体大小可调节，海量资源！覆盖全学科，可完全离线使用！\n总下载量达40w+\n超实用的学习工具！包含各科重要知识点，无水货！\n当前的功能列表如下:\n高中必背古诗词+文言文（带翻译）\n100+篇英语作文及翻译\n60+篇优秀语文作文\n3600个高考必背英语单词及翻译\n126条语文名言警句及解析\n化学元素及详细介绍\n高中必背化学方程\n中国宪法 最新版 （2018修正版）\n高中必背物理公式\n高中必背数学公式\n高中必背历史事件\n高中重点生物考点\n高中重点政治考点\n高中重点地理考点",
+    "preview": [
+      "media/a9.png",
+      "media/a7.png",
+      "media/a4.png",
+      "media/a5.png",
+      "media/a6.png",
+      "media/a1.png",
+      "media/a2.png",
+      "media/a8.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/retouch_2026112120143482.jpg",
+    "author": [
+      {
+        "name": "HiXiaomi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电主页",
+      "url": "https://ifdian.net/a/HiXiaomi",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "16.0.0",
+      "file_name": "downloads/学习盒子gaozhong(1).bin",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "16",
+          "content": "古诗文全部新增翻译，更新新版生物考点，新增往年高考作文，修复已知问题。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
